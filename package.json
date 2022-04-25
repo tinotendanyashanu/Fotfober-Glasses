@@ -1,5 +1,23 @@
 {
   "dependencies": {
     "sweetalert": "^2.1.2"
-  }
+  },
+  "name": "fotfoberglasses",
+  "version": "17.15.0",
+  "description": "marshyweb",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tynoe21/Fotfober-Glasses.git"
+  },
+  "author": "Tinotenda Nyashanu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tynoe21/Fotfober-Glasses/issues"
+  },
+  "homepage": "https://github.com/tynoe21/Fotfober-Glasses#readme"
 }

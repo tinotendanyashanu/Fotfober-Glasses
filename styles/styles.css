@@ -719,6 +719,7 @@ body{
     .customer-card{
         flex-direction: column;
         width: 20rem;
+        height: 16rem;
     }
     .customer-image{
         margin-left: 0;
@@ -738,6 +739,9 @@ body{
     }
 }
 @media (max-width:500px){
+    .sidebar{
+        width: 4rem;
+    }
     .navigation{
         width: 23rem ;
 
@@ -803,6 +807,7 @@ body{
     .customers-paragraph{
         font-size: 1.4rem;
         width: 80%;
+        height: 16rem;
     }
     .main-part{
         padding: 2rem;
